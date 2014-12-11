@@ -1,0 +1,27 @@
+body {
+  background: #1fa67a;
+  font-family: 'Trebuchet MS', sans-serif;
+}
+.wrapper {
+  width: 75%;
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.goal {
+  float: left;
+  width: 30%;
+  margin-right: 3%;
+  height: 100px;
+}
+.goal > * {
+  color: #eee;
+}
+.goal > span {
+  font-weight: bold;
+}
+.goal > i {
+  font-size: 70px;
+  float: left;
+  margin-right: 15px;
+}

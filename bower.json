@@ -1,0 +1,20 @@
+{
+  "name": "personal-goals",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jan-trojanowski/personal-goals",
+  "authors": [
+    "jan-trojanowski <jgtrojanowski@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "react": "~0.12.1",
+    "font-awesome": "~4.2.0"
+  }
+}

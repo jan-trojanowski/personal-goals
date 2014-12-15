@@ -1,10 +1,18 @@
-personal-goals
-==============
+# Personal Goals App
+===========================
 
-Set your goals for the next year! Do it quickly, painlessly by just changing few lines of code!
+> Set your goals for the next year!
+> Do it quickly, painlessly by just changing few lines of code!
 
-Quick config:
-```bower install```
+### Quick config:
+```sh
+bower install
+npm install
+```
 
-Written in:
-```React```
+### For development:
+``` sh
+jsx --watch jsx/ js/
+```
+
+### Written in React

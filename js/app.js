@@ -2,9 +2,9 @@
   'use strict';
 
   var myGoals = [
-    {key: 1, icon: 'fa fa-laptop ', title: 'Improve Pure JavaScript Skills', description: 'Learn new frameworks, Master Design Patterns, Investigate ECMAScript 6'},
-    {key: 2, icon: 'fa fa-github ', title: 'Enhance Github profile', description: 'Help open source community by sharing more code to Github'},
-    {key: 3, icon: 'fa fa-sitemap ', title: 'Node.js', description: 'Aquire skills in node.js, learn express, jade, sockets, etc'}
+    {icon: 'fa fa-laptop ', title: 'Improve Pure JavaScript Skills', description: 'Learn new frameworks, Master Design Patterns, Investigate ECMAScript 6'},
+    {icon: 'fa fa-github ', title: 'Enhance Github profile', description: 'Help open source community by sharing more code to Github'},
+    {icon: 'fa fa-sitemap ', title: 'Node.js', description: 'Aquire skills in node.js, learn express, jade, sockets, etc'}
   ];
 
   var mountNode = document.querySelector('.wrapper');
